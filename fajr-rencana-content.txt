@@ -10,6 +10,9 @@ RENCANA BELAJAR FAJR CORP
  * Object & Class
  * Asynchronus
  * ES6
+ * Framework Javascript
+  - Angular
+  - React
 - ReactJS
  * Pengenalan
  * Components & Props
