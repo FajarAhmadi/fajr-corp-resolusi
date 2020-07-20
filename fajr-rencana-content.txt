@@ -1,0 +1,6 @@
+RENCANA CONTENT FAJR CORP
+
+- HTML
+- CSS
+- Javascript
+- ReactJS
