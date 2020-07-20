@@ -13,6 +13,7 @@ RENCANA BELAJAR FAJR CORP
  * Framework Javascript
   - Angular
   - React
+  - Vue
 - ReactJS
  * Pengenalan
  * Components & Props
