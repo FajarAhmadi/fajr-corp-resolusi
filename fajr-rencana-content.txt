@@ -20,3 +20,4 @@ RENCANA BELAJAR FAJR CORP
  * React Deployment
 - Memperkuat Materi Fundamental
 - Menambahkan Materi Pyton
+- Portofolio
