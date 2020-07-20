@@ -19,3 +19,5 @@ RENCANA BELAJAR FAJR CORP
  * React & Router
  * React Deployment
 - Memperkuat Materi Fundamental
+- Menambahkan Materi Pyton
+- Portofolio
