@@ -1,0 +1,20 @@
+RENCANA BELAJAR FAJR CORP
+
+- Git
+- HTML
+- CSS
+- Javascript
+ * Intro & Conditional
+ * Loop & Array
+ * Function
+ * Object & Class
+ * Asynchronus
+ * ES6
+- ReactJS
+ * Pengenalan
+ * Components & Props
+ * State & Component Lifecyrcle
+ * Lists & Form
+ * Hooks & Context
+ * React & Router
+ * React Deployment
